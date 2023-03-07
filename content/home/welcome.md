@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: contact.jpg
+    image: 20201222-ctu02293.jpg
 ---
 <br>
 
