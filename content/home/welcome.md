@@ -3,9 +3,7 @@ widget: hero
 widget_id: introduction
 headless: true
 weight: 10
-title: |
-  Wowchemy  
-  Research Group
+title: About Me
 hero_media: welcome.jpg
 design:
   columns: "1"
