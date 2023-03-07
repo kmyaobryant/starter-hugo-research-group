@@ -11,6 +11,7 @@ design:
   css_class: null
   background:
     image: 20201222-ctu02293.jpg
+    text_color_light: true
 ---
 <br>
 
