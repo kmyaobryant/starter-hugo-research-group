@@ -12,6 +12,7 @@ design:
   background:
     image: 20201222-ctu02293.jpg
     text_color_light: true
+    image_darken: 0.4
 ---
 <br>
 
