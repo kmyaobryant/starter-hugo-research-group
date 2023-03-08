@@ -4,7 +4,7 @@ widget_id: introduction
 headless: true
 weight: 10
 title: About Me
-hero_media: celtics.jpg
+hero_media: 证件照-海马体-5X4.jpg
 design:
   columns: "1"
   css_style: null
