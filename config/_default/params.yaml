@@ -29,7 +29,7 @@ marketing:
 
 # Site header
 
-header: Kuanming Yao
+header: 
   navbar:
     enable: true
     align: r
