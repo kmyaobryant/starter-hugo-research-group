@@ -4,7 +4,7 @@ widget_id: introduction
 headless: true
 weight: 10
 title: About Me
-hero_media: 微信图片_20230308160715.jpg
+hero_media: celtics.jpg
 design:
   columns: "1"
   css_style: null
